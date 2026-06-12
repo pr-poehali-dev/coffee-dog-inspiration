@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 
 const BANNER_IMG = "https://cdn.poehali.dev/projects/93238b32-d6ad-450e-a9f6-09f40b0b7c64/files/ea1252eb-7d93-4d5a-91da-6b1a2e6b29be.jpg";
-const CUP_DESIGN_IMG = "https://cdn.poehali.dev/projects/93238b32-d6ad-450e-a9f6-09f40b0b7c64/files/f3b26493-76b6-4941-960a-a7bf57a2bd22.jpg";
+const CUP_DESIGN_IMG = "https://cdn.poehali.dev/projects/93238b32-d6ad-450e-a9f6-09f40b0b7c64/files/0f20d516-9c4c-4a51-b7a1-4b294f4d0631.jpg";
 
 const Index = () => {
   const [visible, setVisible] = useState(false);
